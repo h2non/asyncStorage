@@ -22,7 +22,15 @@
     "store"
   ],
   "devDependencies": {
-    "chai": "^1.10.0",
-    "mocha": "^2.0.1"
+    "browserify": "^6.3.3",
+    "chai": "^1.9.1",
+    "karma": "^0.12.28",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-firefox-launcher": "^0.1.3",
+    "karma-mocha": "^0.1.9",
+    "lodash": "^2.4.1",
+    "mocha": "^1.21.3",
+    "stubby": "^0.2.9",
+    "uglify-js": "^2.4.15"
   }
 }
