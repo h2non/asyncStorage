@@ -1,0 +1,28 @@
+{
+  "name": "asyncStorage",
+  "version": "0.1.0",
+  "description": "Fully asynchronous localStorage implementation using Web Workers",
+  "repository": "h2non/asyncStorage",
+  "author": "Tomas Aparicio",
+  "licenses": "MIT",
+  "main": "lib/index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "storage",
+    "local",
+    "localstorage",
+    "async",
+    "asynchronous",
+    "sessionstorage",
+    "store"
+  ],
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
