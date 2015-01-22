@@ -1,0 +1,34 @@
+{
+  "name": "asyncStorage",
+  "description": "Full asynchronous implementation of localStorage using Web Workers",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Tomas Aparicio",
+  "repository": "h2non/asyncStorage",
+  "homepage": "https://github.com/h2non/asyncStorage",
+  "keywords": [
+    "async",
+    "storage",
+    "localStorage",
+    "sessionStorage"
+  ],
+  "ignore": [
+    "**/.*",
+    ".*",
+    "*.md",
+    "test",
+    "lib",
+    "examples",
+    "Makefile",
+    "karma.conf.js",
+    ".editorconfig",
+    ".gitignore",
+    ".travis.yml",
+    ".npmignore",
+    "package.json",
+    "component.json"
+  ],
+  "devDependencies": {
+    "thread": "~0.1.0"
+  }
+}
