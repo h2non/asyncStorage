@@ -29,8 +29,8 @@ AsyncStore.prototype.removeItem = function (key, cb) {
   AsyncStore.run('delete', key, null, cb)
 }
 
-AsyncStore.prototype.clear = function () {
-  AsyncStore.run('clear', key, null, cb)
+AsyncStore.prototype.clear = function (cb) {
+  AsyncStore.run('clear', null, null, cb)
 }
 
 AsyncStore.prototype.length = 0
