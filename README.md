@@ -34,7 +34,7 @@ Or loading the script remotely
 
 ## Usage
 
-The API is a mirror of [localStorage](http://www.w3.org/TR/webstorage/#storage) with fully asynchronous based on `callbacks`
+The API mimics the [localStorage API](http://www.w3.org/TR/webstorage/#storage) with fully asynchronous based on `callbacks`
 
 #### Read
 
