@@ -8,12 +8,12 @@ A fully asynchronous `localStorage` implementation using Web Workers
 
 Install via npm
 ```
-component install h2non/asyncStore
+npm install asyncstore
 ```
 
 Install via Bower
 ```
-bower install asyncStore
+bower install asyncstore
 ```
 
 Install via Component
