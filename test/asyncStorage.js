@@ -1,5 +1,5 @@
 suite('set', function () {
-  test('expose the http constructor', function () {
-    expect(asyncStorage).to.be.a('function')
+  test('expose the public API', function () {
+    expect(asyncStore).to.be.a('object')
   })
 })
