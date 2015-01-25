@@ -1,8 +1,8 @@
 {
-  "name": "asyncStorage",
+  "name": "asyncStore",
   "version": "0.1.0",
   "description": "Fully asynchronous localStorage implementation using Web Workers",
-  "repository": "h2non/asyncStorage",
+  "repository": "h2non/asyncStore",
   "author": "Tomas Aparicio",
   "licenses": "MIT",
   "main": "lib/index",
@@ -30,7 +30,10 @@
     "karma-mocha": "^0.1.9",
     "lodash": "^2.4.1",
     "mocha": "^1.21.3",
+    "mocha-phantomjs": "^3.5.3",
+    "phantomjs": "^1.9.13",
     "stubby": "^0.2.9",
+    "thread-js": "^0.1.13",
     "uglify-js": "^2.4.15"
   }
 }

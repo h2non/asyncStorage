@@ -1,11 +1,11 @@
 {
-  "name": "asyncStorage",
-  "description": "Full asynchronous implementation of localStorage using Web Workers",
+  "name": "asyncStore",
+  "description": "Fully asynchronous localStorage implementation using Web Workers",
   "version": "0.1.0",
   "license": "MIT",
   "author": "Tomas Aparicio",
-  "repository": "h2non/asyncStorage",
-  "homepage": "https://github.com/h2non/asyncStorage",
+  "repository": "h2non/asyncStore",
+  "homepage": "https://github.com/h2non/asyncStore",
   "keywords": [
     "async",
     "storage",
@@ -13,8 +13,8 @@
     "sessionStorage"
   ],
   "scripts": [
-    "asyncStorage.js",
-    "asyncStorage.min.js",
-    "asyncStorage.min.js.map"
+    "asyncStore.js",
+    "asyncStore.min.js",
+    "asyncStore.min.js.map"
   ]
 }
