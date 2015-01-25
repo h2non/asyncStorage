@@ -23,7 +23,7 @@ component install h2non/asyncStore
 
 Or loading the script remotely
 ```html
-<script src="//cdn.rawgit.com/h2non/asyncStore/0.1.0/asyncStore"></script>
+<script src="//cdn.rawgit.com/h2non/asyncStore/0.1.0/asyncStore.js"></script>
 ```
 
 ## Browser Support
