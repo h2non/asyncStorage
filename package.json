@@ -1,11 +1,11 @@
 {
-  "name": "asyncStore",
+  "name": "asyncstore",
   "version": "0.1.0",
   "description": "Fully asynchronous localStorage implementation using Web Workers",
   "repository": "h2non/asyncStore",
   "author": "Tomas Aparicio",
   "licenses": "MIT",
-  "main": "lib/index",
+  "main": "lib",
   "directories": {
     "lib": "./lib"
   },

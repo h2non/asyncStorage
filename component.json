@@ -1,5 +1,5 @@
 {
-  "name": "asyncStore",
+  "name": "asyncstore",
   "description": "Fully asynchronous localStorage implementation using Web Workers",
   "version": "0.1.0",
   "license": "MIT",
