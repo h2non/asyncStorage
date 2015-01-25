@@ -56,7 +56,7 @@ function createWorker(store) {
     if (worker === null) {
       worker = thread({
         evalPath: store.evalPath,
-        require: 'http://cdn.rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.js'
+        require: 'https://cdn.rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.js'
       })
     }
     return worker
